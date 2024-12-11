@@ -15,8 +15,11 @@ Comparing partition based clustering
 ## Run the Notebook on Google Colab
 
 You can easily run this code on google colab by just clicking badges:
+
 K-Means [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/AsadiAhmad/Partition-Based-Clustering/blob/main/Code/K_Means.ipynb)
+
 K_Medoid [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/AsadiAhmad/Partition-Based-Clustering/blob/main/Code/K_Medoid.ipynb)
+
 K-Means++ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/AsadiAhmad/Partition-Based-Clustering/blob/main/Code/K_Means%2B%2B.ipynb)
 
 ## License

@@ -1,5 +1,5 @@
 # Partition-Based-Clustering
-Comparing partition based clustering
+Comparing partition based clustering, K-means, K-means++, K-medoid 
 
 ## Tech :hammer_and_wrench: Languages and Tools :
 
